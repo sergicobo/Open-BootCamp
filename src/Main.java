@@ -6,7 +6,7 @@ public class Main
         miCoche.AgregarPuerta();
         System.out.println("Numero de Puertas: " + miCoche.puertas);
 
-        int resultado = suma(13,17,24);
+        int resultado = suma(18,47,94);
         System.out.println("Resultado de la suma: " + resultado);
     }
 
